@@ -10,6 +10,9 @@
   - 全平台客户端支持 tun2socks
 - [every proxy](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy&hl=en_US)
   - Android 提供 socks5
+- [Android Proxy Server](https://play.google.com/store/apps/details?id=cn.adonet.proxyevery&hl=en_US)
+  - Android 提供 socks5、ss
+  - **重点 socks5 支持 udp**
 - [tun2socks APP](https://play.google.com/store/apps/details?id=com.elseplus.tun2socks&hl=en_US)
   - 顾名思义
 - [tun2proxy](https://github.com/tun2proxy/tun2proxy)
