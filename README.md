@@ -4,6 +4,7 @@
 - [brook](https://github.com/txthinking/brook)
   - 创建 UDP 支持的 socks5
   - testsock5 可以支持 UDP 检测
+  - 全平台客户端支持 tun2socks
 - [every proxy](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy&hl=en_US)
   - Android 提供 socks5
 - [tun2socks APP](https://play.google.com/store/apps/details?id=com.elseplus.tun2socks&hl=en_US)
