@@ -12,4 +12,5 @@
   - 全端 tun2socks5 or tun2http
 - [curl-h3](https://gist.github.com/sinwoobang/c83af540a2df8b149a59007e5f5814ec)
   - curl quic 支持
+  - 建议使用 cloudflare 的 curl.rb
 - 
