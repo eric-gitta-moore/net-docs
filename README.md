@@ -20,7 +20,8 @@
 - [curl-h3](https://gist.github.com/sinwoobang/c83af540a2df8b149a59007e5f5814ec)
   - curl quic 支持
   - 建议使用 cloudflare 的 curl.rb
-- 
+- v2rayNG
+  - 开启 fake-ip + 全局模式之后 等同于 tun2socks
 
 ## Troubleshooting
 
