@@ -1,7 +1,10 @@
 # net-docs
 网络工具
 
+> 梯子另说，这里主要是通用的网络工具
+
 - [brook](https://github.com/txthinking/brook)
+  - 虽然是梯子出生
   - 创建 UDP 支持的 socks5
   - testsock5 可以支持 UDP 检测
   - 全平台客户端支持 tun2socks
