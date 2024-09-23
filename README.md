@@ -21,3 +21,9 @@
   - curl quic 支持
   - 建议使用 cloudflare 的 curl.rb
 - 
+
+## Troubleshooting
+
+### Fake-ip
+- [一种基于SOCKS的IPv6/IPv4网关机制](https://rfc2cn.com/rfc3089.html)
+- [我有特别的 DNS 配置和使用技巧](https://blog.skk.moe/post/i-have-my-unique-dns-setup/)
