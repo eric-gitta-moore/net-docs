@@ -25,6 +25,9 @@
   - 可以替代 every proxy，[自定义配置](https://github.com/eric-gitta-moore/sub-diversion-rules/blob/main/src/sing-box/direct-socks.json) 【Socks5 支持 UDP】
 - NekoRay
   - Windows｜macOS 平替 tun2proxy GUI
+- shadowrocket
+  - iOS 没办法，只能这个，使用 `代理` 模式，默认开启 fakeip
+  - 如果用 SFI 修改配置太麻烦，不好用，虽然可以实现和 Android 的一样的功能
 - [DNS Changer for IPv4/IPv6](https://github.com/XTLS/Xray-core/issues/2280#issuecomment-1616774179)
   - 免 root 查看本机各个接口 DNS
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
