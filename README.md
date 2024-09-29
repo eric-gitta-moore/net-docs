@@ -23,6 +23,8 @@
 - v2rayNG | NekoBox
   - 开启 fake-ip + 全局模式之后 等同于 tun2socks
   - 可以替代 every proxy，[自定义配置](https://github.com/eric-gitta-moore/sub-diversion-rules/blob/main/src/sing-box/direct-socks.json) 【Socks5 支持 UDP】
+- NekoRay
+  - Windows｜macOS 平替 tun2proxy GUI
 - [DNS Changer for IPv4/IPv6](https://github.com/XTLS/Xray-core/issues/2280#issuecomment-1616774179)
   - 免 root 查看本机各个接口 DNS
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
