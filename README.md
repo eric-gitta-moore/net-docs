@@ -22,6 +22,8 @@
   - 建议使用 [cloudflare](https://dev.to/gjrdiesel/installing-curl-with-http3-on-macos-2di2) 的 curl.rb
 - v2rayNG
   - 开启 fake-ip + 全局模式之后 等同于 tun2socks
+- DNS Changer for IPv4/IPv6
+  - 免 root 查看本机 DNS
 
 ## Troubleshooting
 
