@@ -26,6 +26,7 @@
   - 免 root 查看本机各个接口 DNS
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
   - https://apkpure.com/dnschanger-for-ipv4-ipv6/com.frostnerd.dnschanger
+  - https://github.com/emtee40/dnschanger-frostnerd
 
 ## Troubleshooting
 
