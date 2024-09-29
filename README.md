@@ -25,6 +25,7 @@
 - [DNS Changer for IPv4/IPv6](https://github.com/XTLS/Xray-core/issues/2280#issuecomment-1616774179)
   - 免 root 查看本机各个接口 DNS
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
+  - https://apkpure.com/dnschanger-for-ipv4-ipv6/com.frostnerd.dnschanger
 
 ## Troubleshooting
 
