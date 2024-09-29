@@ -24,6 +24,7 @@
   - 开启 fake-ip + 全局模式之后 等同于 tun2socks
 - [DNS Changer for IPv4/IPv6](https://github.com/XTLS/Xray-core/issues/2280#issuecomment-1616774179)
   - 免 root 查看本机 DNS
+  - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
 
 ## Troubleshooting
 
