@@ -20,8 +20,9 @@
 - [curl-h3](https://gist.github.com/sinwoobang/c83af540a2df8b149a59007e5f5814ec)
   - curl quic 支持
   - 建议使用 [cloudflare](https://dev.to/gjrdiesel/installing-curl-with-http3-on-macos-2di2) 的 curl.rb
-- v2rayNG
+- v2rayNG | NekoBox
   - 开启 fake-ip + 全局模式之后 等同于 tun2socks
+  - 可以替代 every proxy，[自定义配置](https://github.com/eric-gitta-moore/sub-diversion-rules/blob/main/src/sing-box/direct-socks.json)
 - [DNS Changer for IPv4/IPv6](https://github.com/XTLS/Xray-core/issues/2280#issuecomment-1616774179)
   - 免 root 查看本机各个接口 DNS
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
