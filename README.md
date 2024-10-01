@@ -36,6 +36,7 @@
 - [iOS](https://apps.apple.com/gb/app/network-analyzer-net-tools/id562315041)/[Android](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an&hl=en) 通用 Network Analyzer
   - 免 root 查看本机各个接口 DNS
   - 出处: https://github.com/ish-app/ish/issues/173#issuecomment-454831913
+- [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
 
 ## Troubleshooting
 
