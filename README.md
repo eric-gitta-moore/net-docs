@@ -33,6 +33,9 @@
   - https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger&hl=en
   - https://apkpure.com/dnschanger-for-ipv4-ipv6/com.frostnerd.dnschanger
   - https://github.com/emtee40/dnschanger-frostnerd
+- [iOS](https://apps.apple.com/gb/app/network-analyzer-net-tools/id562315041)/[Android](https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an&hl=en) 通用 Network Analyzer
+  - 免 root 查看本机各个接口 DNS
+  - 出处: https://github.com/ish-app/ish/issues/173#issuecomment-454831913
 
 ## Troubleshooting
 
