@@ -37,6 +37,8 @@
   - 免 root 查看本机各个接口 DNS
   - 出处: https://github.com/ish-app/ish/issues/173#issuecomment-454831913
 - [WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer)
+- [ntttcp-for-linux](https://github.com/Microsoft/ntttcp-for-linux)
+  - 微软推出的网络测速工具
 
 ## Troubleshooting
 
